@@ -1,4 +1,4 @@
-# DEARM4_Exporter
+# DREAM4_Exporter
 
 Credit: Just a repackage of https://github.com/yannadani/cbed/blob/main/envs/dream4.py
 
